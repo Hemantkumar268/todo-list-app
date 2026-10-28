@@ -48,7 +48,4 @@ https://taskflow-todo-app-ht.netlify.app/
 
 ## Author
 Hemant Kumar
-
-Minak Gautam
-
 A practical project built to strengthen JavaScript fundamentals and DOM manipulation skills.
